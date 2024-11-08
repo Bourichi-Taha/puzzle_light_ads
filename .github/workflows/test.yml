@@ -55,8 +55,6 @@ jobs:
 
     - name: Build APK for Android
       run: flutter build apk --release
-      env:
-        JAVA_HOME: /opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/17.0.12-7/x64
 
     - name: Build AppBundle for Android
       run: flutter build appbundle --release
