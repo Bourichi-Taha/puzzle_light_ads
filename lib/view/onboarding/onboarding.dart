@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:puzzle/ad_manager/banner_Ad.dart';
+import 'package:puzzle/ad_manager/banner_ad.dart';
 import 'package:puzzle/model_view/data_provider.dart';
 
 class OnboardingScreen extends StatefulWidget {
