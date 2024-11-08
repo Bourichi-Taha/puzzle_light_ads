@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:in_app_review/in_app_review.dart';
 import 'package:provider/provider.dart';
-import 'package:puzzle/ad_manager/banner_Ad.dart';
+import 'package:puzzle/ad_manager/banner_ad.dart';
 import 'package:puzzle/ad_manager/interstitial_ad.dart';
 import 'package:puzzle/ad_manager/native_ad.dart';
 import 'package:puzzle/model_view/data_provider.dart';
